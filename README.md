@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/jeanethsn/qr-code-component-main](https://github.com/jeanethsn/result-component)
-- Live Site URL: [https://jeanethsn.github.io/qr-code-component-main/](https://jeanethsn.github.io/result-component/)
+- Solution URL: [https://github.com/jeanethsn/qr-code-component-main](https://github.com/jeanethsn/qr-code-component-main)
+- Live Site URL: [https://jeanethsn.github.io/qr-code-component-main/](https://jeanethsn.github.io/qr-code-component-main/)
 
 ## My process
 
