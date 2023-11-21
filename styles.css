@@ -27,6 +27,7 @@ body{
 
 main{
     margin: 0 auto;
+    margin-bottom: 2rem;
     width: 300px;
     background-color: var(--white);
     border-radius:1rem;
