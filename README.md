@@ -1,6 +1,6 @@
 # Frontend Mentor - Results summary component solution
 
-This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](assets/images/qr-code-desktop.jpg)
+![](images/qr-code-desktop.jpg)
 
 
 ### Links
